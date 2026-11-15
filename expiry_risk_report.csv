@@ -1,0 +1,83 @@
+medicine,batch_id,expiry_date,days_to_expiry,units_remaining,units_ahead,rate28,expiry_risk_prob,forecast_demand_until_expiry,expected_units_expiring,value_at_risk_inr,risk_tier,recommended_action
+Salbutamol inhaler,1446,2026-12-13,43,243,61,4.1,0.963,170.5,133.5,17355.0,High,"Act now: discount, transfer to another store or return to supplier; pause reorders"
+Amox-clav syrup,2010,2026-12-25,55,372,44,4.5,0.98,283.5,132.5,9938.0,High,"Act now: discount, transfer to another store or return to supplier; pause reorders"
+Amox-clav syrup,2006,2027-01-15,76,84,428,4.5,0.886,391.8,84.0,6300.0,High,"Act now: discount, transfer to another store or return to supplier; pause reorders"
+Amox-clav syrup,2009,2027-01-23,84,24,512,4.5,0.012,433.0,24.0,1800.0,High,"Act now: discount, transfer to another store or return to supplier; pause reorders"
+Amox-clav syrup,2008,2027-01-11,72,12,416,4.5,0.008,371.2,12.0,900.0,High,"Act now: discount, transfer to another store or return to supplier; pause reorders"
+Loperamide 2mg,1745,2027-02-21,113,832,0,5.3,0.958,584.0,248.0,372.0,High,"Act now: discount, transfer to another store or return to supplier; pause reorders"
+Loperamide 2mg,1741,2027-04-28,179,300,832,5.3,0.698,925.2,206.8,310.0,High,"Act now: discount, transfer to another store or return to supplier; pause reorders"
+Loperamide 2mg,1743,2027-06-11,223,120,1132,5.3,0.378,1152.6,99.4,149.0,High,"Act now: discount, transfer to another store or return to supplier; pause reorders"
+Insulin glargine pen,1393,2026-12-26,56,84,41,2.1,0.384,107.1,17.9,8592.0,Medium,Watch: dispense this batch first and shrink the next order
+Antacid gel 170ml,1511,2027-05-15,196,204,1333,9.1,0.361,1867.2,0.0,0.0,Medium,Watch: dispense this batch first and shrink the next order
+Paracetamol 500mg,107,2029-08-09,1013,540,0,51.5,0.0,57663.9,0.0,0.0,Low,No action needed
+Azithromycin 500mg,206,2028-07-28,636,240,0,17.7,0.0,11314.2,0.0,0.0,Low,No action needed
+Azithromycin 500mg,205,2028-08-03,642,30,240,17.7,0.0,11421.0,0.0,0.0,Low,No action needed
+Azithromycin 500mg,208,2028-08-07,646,30,270,17.7,0.0,11492.1,0.0,0.0,Low,No action needed
+Amoxicillin 500mg,329,2028-02-16,473,165,0,19.2,0.0,9555.4,0.0,0.0,Low,No action needed
+Amoxicillin 500mg,324,2028-04-25,542,1,165,19.2,0.0,10949.4,0.0,0.0,Low,No action needed
+Amoxicillin 500mg,318,2028-04-29,546,101,166,19.2,0.0,11030.2,0.0,0.0,Low,No action needed
+Amoxicillin 500mg,323,2028-06-10,588,90,267,19.2,0.0,11878.6,0.0,0.0,Low,No action needed
+Amoxicillin 500mg,315,2028-06-16,594,60,357,19.2,0.0,11999.9,0.0,0.0,Low,No action needed
+Cetirizine 10mg,433,2027-06-22,234,477,0,45.2,0.004,8022.9,0.0,0.0,Low,No action needed
+Cetirizine 10mg,428,2029-06-30,973,34,477,45.2,0.0,33360.3,0.0,0.0,Low,No action needed
+Cetirizine 10mg,429,2029-07-17,990,300,511,45.2,0.0,33943.2,0.0,0.0,Low,No action needed
+Pantoprazole 40mg,544,2028-08-09,648,290,0,37.0,0.0,22481.0,0.0,0.0,Low,No action needed
+Metformin 500mg,630,2029-04-17,899,662,0,37.5,0.0,31224.2,0.0,0.0,Low,No action needed
+Metformin 500mg,635,2029-09-25,1060,200,662,37.5,0.0,36816.1,0.0,0.0,Low,No action needed
+Amlodipine 5mg,723,2028-10-12,712,210,0,30.6,0.0,21962.4,0.0,0.0,Low,No action needed
+Amlodipine 5mg,713,2029-04-06,888,440,210,30.6,0.0,27391.3,0.0,0.0,Low,No action needed
+Atorvastatin 10mg,827,2028-11-03,734,181,0,26.3,0.0,16709.0,0.0,0.0,Low,No action needed
+Atorvastatin 10mg,818,2029-04-23,905,85,181,26.3,0.0,20601.7,0.0,0.0,Low,No action needed
+Atorvastatin 10mg,823,2029-04-23,905,180,266,26.3,0.0,20601.7,0.0,0.0,Low,No action needed
+Atorvastatin 10mg,822,2029-05-19,931,120,446,26.3,0.0,21193.6,0.0,0.0,Low,No action needed
+ORS sachet,929,2027-07-22,264,161,0,13.6,0.0,3431.2,0.0,0.0,Low,No action needed
+ORS sachet,928,2027-09-02,306,1,161,13.6,0.0,3977.1,0.0,0.0,Low,No action needed
+ORS sachet,926,2027-11-24,389,62,162,13.6,0.0,5055.9,0.0,0.0,Low,No action needed
+ORS sachet,920,2027-12-13,408,50,224,13.6,0.0,5302.8,0.0,0.0,Low,No action needed
+Cough syrup 100ml,992,2027-01-30,91,78,0,11.6,0.0,1167.9,0.0,0.0,Low,No action needed
+Cough syrup 100ml,994,2027-02-06,98,48,78,11.6,0.0,1257.7,0.0,0.0,Low,No action needed
+Cough syrup 100ml,993,2027-03-15,135,24,126,11.6,0.0,1732.6,0.0,0.0,Low,No action needed
+Cough syrup 100ml,996,2027-03-17,137,312,150,11.6,0.007,1758.2,0.0,0.0,Low,No action needed
+Cough syrup 100ml,997,2027-04-02,153,72,462,11.6,0.002,1963.6,0.0,0.0,Low,No action needed
+Vitamin D3 60k,1045,2027-01-26,87,526,0,10.4,0.017,853.7,0.0,0.0,Low,No action needed
+Vitamin D3 60k,1046,2027-06-13,225,200,526,10.4,0.022,2207.9,0.0,0.0,Low,No action needed
+Multivitamin,1135,2028-08-12,651,43,0,16.8,0.0,9905.2,0.0,0.0,Low,No action needed
+Multivitamin,1139,2028-09-18,688,180,43,16.8,0.0,10468.2,0.0,0.0,Low,No action needed
+Ibuprofen 400mg,1242,2028-10-17,717,142,0,19.0,0.0,14700.8,0.0,0.0,Low,No action needed
+Ibuprofen 400mg,1235,2029-02-15,838,166,142,19.0,0.0,17181.7,0.0,0.0,Low,No action needed
+Omeprazole 20mg,1344,2027-06-15,227,177,0,25.5,0.0,5833.7,0.0,0.0,Low,No action needed
+Omeprazole 20mg,1329,2028-02-28,485,183,177,25.5,0.0,12464.0,0.0,0.0,Low,No action needed
+Omeprazole 20mg,1343,2028-03-10,496,100,360,25.5,0.0,12746.7,0.0,0.0,Low,No action needed
+Insulin glargine pen,1394,2026-12-05,35,17,0,2.1,0.0,66.9,0.0,0.0,Low,No action needed
+Insulin glargine pen,1392,2026-12-18,48,24,17,2.1,0.001,91.8,0.0,0.0,Low,No action needed
+Salbutamol inhaler,1449,2026-12-11,41,61,0,4.1,0.006,162.6,0.0,0.0,Low,No action needed
+Salbutamol inhaler,1450,2027-02-01,93,30,304,4.1,0.18,368.8,0.0,0.0,Low,No action needed
+Antacid gel 170ml,1505,2027-02-09,101,1,0,9.1,0.0,962.2,0.0,0.0,Low,No action needed
+Antacid gel 170ml,1513,2027-04-10,161,1128,1,9.1,0.079,1533.8,0.0,0.0,Low,No action needed
+Antacid gel 170ml,1512,2027-04-27,178,144,1129,9.1,0.109,1695.8,0.0,0.0,Low,No action needed
+Antacid gel 170ml,1507,2027-05-05,186,60,1273,9.1,0.011,1772.0,0.0,0.0,Low,No action needed
+Lubricant eye drops,1573,2027-02-13,105,173,0,6.5,0.02,708.7,0.0,0.0,Low,No action needed
+Lubricant eye drops,1574,2027-03-08,128,12,173,6.5,0.0,863.9,0.0,0.0,Low,No action needed
+Lubricant eye drops,1571,2027-03-31,151,229,185,6.5,0.296,1019.1,0.0,0.0,Low,No action needed
+Diclofenac gel,1613,2027-05-04,185,47,0,10.4,0.0,1645.5,0.0,0.0,Low,No action needed
+Diclofenac gel,1619,2027-05-27,208,60,47,10.4,0.0,1850.1,0.0,0.0,Low,No action needed
+Diclofenac gel,1620,2027-07-30,272,60,107,10.4,0.0,2419.3,0.0,0.0,Low,No action needed
+Diclofenac gel,1618,2027-09-27,331,240,167,10.4,0.0,2944.1,0.0,0.0,Low,No action needed
+Diclofenac gel,1617,2027-10-02,336,80,407,10.4,0.0,2988.6,0.0,0.0,Low,No action needed
+Levothyroxine 50mcg,1715,2027-05-19,200,186,0,19.9,0.0,4008.1,0.0,0.0,Low,No action needed
+Levothyroxine 50mcg,1695,2028-04-10,527,79,186,19.9,0.0,10561.5,0.0,0.0,Low,No action needed
+Levothyroxine 50mcg,1708,2028-04-14,531,200,265,19.9,0.0,10641.6,0.0,0.0,Low,No action needed
+Levothyroxine 50mcg,1714,2028-06-10,588,100,465,19.9,0.0,11783.9,0.0,0.0,Low,No action needed
+Loperamide 2mg,1744,2027-08-15,288,180,1252,5.3,0.014,1488.5,0.0,0.0,Low,No action needed
+Montelukast 10mg,1851,2028-06-16,594,2,0,21.8,0.0,10789.4,0.0,0.0,Low,No action needed
+Montelukast 10mg,1852,2028-09-05,675,210,2,21.8,0.0,12260.7,0.0,0.0,Low,No action needed
+Povidone iodine 100ml,1895,2027-06-02,214,362,0,8.0,0.042,1539.5,0.0,0.0,Low,No action needed
+Povidone iodine 100ml,1897,2027-07-17,259,240,362,8.0,0.055,1863.2,0.0,0.0,Low,No action needed
+Oseltamivir 75mg,1936,2027-04-26,177,113,0,2.2,0.014,600.1,0.0,0.0,Low,No action needed
+Oseltamivir 75mg,1938,2027-05-27,208,80,113,2.2,0.032,705.2,0.0,0.0,Low,No action needed
+Oseltamivir 75mg,1939,2027-06-01,213,90,193,2.2,0.013,722.1,0.0,0.0,Low,No action needed
+Amox-clav syrup,2007,2026-12-21,51,44,0,4.5,0.001,262.9,0.0,0.0,Low,No action needed
+Ondansetron 4mg,2091,2028-03-16,502,24,0,6.6,0.0,3292.9,0.0,0.0,Low,No action needed
+Ondansetron 4mg,2084,2028-06-29,607,42,24,6.6,0.0,3981.7,0.0,0.0,Low,No action needed
+Ondansetron 4mg,2090,2028-07-13,621,60,66,6.6,0.0,4073.5,0.0,0.0,Low,No action needed
+Ondansetron 4mg,2086,2028-08-13,652,30,126,6.6,0.0,4276.9,0.0,0.0,Low,No action needed

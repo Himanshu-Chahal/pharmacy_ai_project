@@ -1,0 +1,172 @@
+{
+  "overall": {
+    "model": {
+      "MAE": 4.4810903234670505,
+      "RMSE": 6.540135347527504,
+      "WAPE_%": 24.56503708709501,
+      "bias_%": -1.8558451416719333
+    },
+    "baseline_same_weekday": {
+      "MAE": 5.223785891527827,
+      "RMSE": 7.5403997279604775,
+      "WAPE_%": 28.636444458263174,
+      "bias_%": 2.101731540741878
+    },
+    "baseline_moving_avg_28": {
+      "MAE": 5.017921709626778,
+      "RMSE": 7.278092875907616,
+      "WAPE_%": 27.507910798314303,
+      "bias_%": 2.0502907045742784
+    }
+  },
+  "by_horizon": {
+    "1-7 days": {
+      "model": 24.736640585593516,
+      "baseline_same_weekday": 28.058523749137308,
+      "baseline_moving_avg_28": 26.782988393649415
+    },
+    "8-14 days": {
+      "model": 24.69971049255858,
+      "baseline_same_weekday": 28.173156863327296,
+      "baseline_moving_avg_28": 27.169232735108356
+    },
+    "15-28 days": {
+      "model": 24.378708321296596,
+      "baseline_same_weekday": 29.26959173592767,
+      "baseline_moving_avg_28": 28.16181456153108
+    }
+  },
+  "by_medicine": {
+    "Amlodipine 5mg": {
+      "model_WAPE_%": 21.613696673591342,
+      "baseline_WAPE_%": 23.808189058928026
+    },
+    "Amox-clav syrup": {
+      "model_WAPE_%": 41.07843345646695,
+      "baseline_WAPE_%": 47.100244498777506
+    },
+    "Amoxicillin 500mg": {
+      "model_WAPE_%": 21.435964386559114,
+      "baseline_WAPE_%": 27.061536730790866
+    },
+    "Antacid gel 170ml": {
+      "model_WAPE_%": 30.200300398739863,
+      "baseline_WAPE_%": 34.27302133235065
+    },
+    "Atorvastatin 10mg": {
+      "model_WAPE_%": 22.050476736363024,
+      "baseline_WAPE_%": 24.154206449288417
+    },
+    "Azithromycin 500mg": {
+      "model_WAPE_%": 26.04493168450553,
+      "baseline_WAPE_%": 26.195978318733967
+    },
+    "Cetirizine 10mg": {
+      "model_WAPE_%": 23.303271556622025,
+      "baseline_WAPE_%": 25.98204775142241
+    },
+    "Cough syrup 100ml": {
+      "model_WAPE_%": 27.31262058114912,
+      "baseline_WAPE_%": 37.60845613551852
+    },
+    "Diclofenac gel": {
+      "model_WAPE_%": 35.62546948523467,
+      "baseline_WAPE_%": 36.268916789993796
+    },
+    "Ibuprofen 400mg": {
+      "model_WAPE_%": 26.918783181351543,
+      "baseline_WAPE_%": 30.39512623693702
+    },
+    "Insulin glargine pen": {
+      "model_WAPE_%": 56.351853927064596,
+      "baseline_WAPE_%": 63.3873043105297
+    },
+    "Levothyroxine 50mcg": {
+      "model_WAPE_%": 20.987497037764008,
+      "baseline_WAPE_%": 27.632929802797623
+    },
+    "Loperamide 2mg": {
+      "model_WAPE_%": 35.368516117340334,
+      "baseline_WAPE_%": 51.97603011093502
+    },
+    "Lubricant eye drops": {
+      "model_WAPE_%": 34.5687100587898,
+      "baseline_WAPE_%": 40.42461602038708
+    },
+    "Metformin 500mg": {
+      "model_WAPE_%": 19.301659420772324,
+      "baseline_WAPE_%": 24.00219326209482
+    },
+    "Montelukast 10mg": {
+      "model_WAPE_%": 25.472516009442987,
+      "baseline_WAPE_%": 26.327107397394936
+    },
+    "Multivitamin": {
+      "model_WAPE_%": 27.133459609174555,
+      "baseline_WAPE_%": 29.567953613350305
+    },
+    "ORS sachet": {
+      "model_WAPE_%": 28.492383098226984,
+      "baseline_WAPE_%": 35.01445690796349
+    },
+    "Omeprazole 20mg": {
+      "model_WAPE_%": 23.844821038775972,
+      "baseline_WAPE_%": 25.031564621388515
+    },
+    "Ondansetron 4mg": {
+      "model_WAPE_%": 33.5659228226047,
+      "baseline_WAPE_%": 39.80482794042116
+    },
+    "Oseltamivir 75mg": {
+      "model_WAPE_%": 48.458996976123856,
+      "baseline_WAPE_%": 58.68351682431385
+    },
+    "Pantoprazole 40mg": {
+      "model_WAPE_%": 20.71063682927887,
+      "baseline_WAPE_%": 28.216949453082574
+    },
+    "Paracetamol 500mg": {
+      "model_WAPE_%": 18.8848190357111,
+      "baseline_WAPE_%": 21.531975138658762
+    },
+    "Povidone iodine 100ml": {
+      "model_WAPE_%": 35.11340263607578,
+      "baseline_WAPE_%": 37.642133234458036
+    },
+    "Salbutamol inhaler": {
+      "model_WAPE_%": 44.76248443302066,
+      "baseline_WAPE_%": 47.40902131668826
+    },
+    "Vitamin D3 60k": {
+      "model_WAPE_%": 31.563700193423838,
+      "baseline_WAPE_%": 38.46479171072108
+    }
+  },
+  "split": {
+    "train_rows": 317772,
+    "test_rows": 56420,
+    "train_targets_up_to": "2026-07-31",
+    "test_forecast_origins": "2026-08-01 to 2026-10-30"
+  },
+  "feature_importance": {
+    "medicine_id": 2.1759,
+    "mean14": 1.929,
+    "mean28": 1.2517,
+    "ly_window": 0.4668,
+    "target_dow": 0.4179,
+    "promo_target": 0.4008,
+    "mean7": 0.0751,
+    "same_dow_mean": 0.061,
+    "horizon": 0.0021,
+    "momentum_ratio": 0.0019,
+    "doy_sin": 0.0016,
+    "last1": 0.0,
+    "category_id": -0.0003,
+    "std28": -0.0014,
+    "target_month": -0.0039,
+    "trend_ratio": -0.0059,
+    "mean56": -0.0067,
+    "ly_ratio": -0.008,
+    "doy_cos": -0.0138
+  }
+}

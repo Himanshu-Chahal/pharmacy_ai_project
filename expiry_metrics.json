@@ -1,0 +1,30 @@
+{
+  "train_snapshots": 9169,
+  "test_snapshots": 2008,
+  "train_positive_rate": 0.06074817319227833,
+  "test_positive_rate": 0.16284860557768924,
+  "test_expired_batches": 25,
+  "ROC_AUC": 0.9893885065500913,
+  "PR_AUC": 0.9502825006123773,
+  "baseline_coverage_rule_ROC_AUC": 0.9778792294523975,
+  "baseline_coverage_rule_PR_AUC": 0.8795259290840204,
+  "precision@0.3": 0.8309037900874635,
+  "recall@0.3": 0.8715596330275229,
+  "precision@0.5": 0.8765822784810127,
+  "recall@0.5": 0.8470948012232415,
+  "ROC_AUC_by_days_to_expiry": {
+    "<=30 days": 0.9882454128440367,
+    "31-90 days": 0.9549278846153846,
+    ">90 days": 0.9875462173710895
+  },
+  "current_stock": {
+    "live_batches": 82,
+    "tier_counts": {
+      "Low": 72,
+      "High": 8,
+      "Medium": 2
+    },
+    "value_at_risk_inr": 45716.0,
+    "high_tier_value_at_risk_inr": 37124.0
+  }
+}

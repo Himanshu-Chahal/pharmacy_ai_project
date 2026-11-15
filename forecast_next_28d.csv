@@ -1,0 +1,729 @@
+date,medicine_id,medicine,horizon,forecast_units
+2026-11-01,0,Paracetamol 500mg,1,44.78
+2026-11-02,0,Paracetamol 500mg,2,59.94
+2026-11-03,0,Paracetamol 500mg,3,58.23
+2026-11-04,0,Paracetamol 500mg,4,56.71
+2026-11-05,0,Paracetamol 500mg,5,58.14
+2026-11-06,0,Paracetamol 500mg,6,56.23
+2026-11-07,0,Paracetamol 500mg,7,54.09
+2026-11-08,0,Paracetamol 500mg,8,47.68
+2026-11-09,0,Paracetamol 500mg,9,59.84
+2026-11-10,0,Paracetamol 500mg,10,58.03
+2026-11-11,0,Paracetamol 500mg,11,55.58
+2026-11-12,0,Paracetamol 500mg,12,57.13
+2026-11-13,0,Paracetamol 500mg,13,55.31
+2026-11-14,0,Paracetamol 500mg,14,56.73
+2026-11-15,0,Paracetamol 500mg,15,45.04
+2026-11-16,0,Paracetamol 500mg,16,64.68
+2026-11-17,0,Paracetamol 500mg,17,57.13
+2026-11-18,0,Paracetamol 500mg,18,57.81
+2026-11-19,0,Paracetamol 500mg,19,59.53
+2026-11-20,0,Paracetamol 500mg,20,57.11
+2026-11-21,0,Paracetamol 500mg,21,56.55
+2026-11-22,0,Paracetamol 500mg,22,53.1
+2026-11-23,0,Paracetamol 500mg,23,66.97
+2026-11-24,0,Paracetamol 500mg,24,57.05
+2026-11-25,0,Paracetamol 500mg,25,56.8
+2026-11-26,0,Paracetamol 500mg,26,63.16
+2026-11-27,0,Paracetamol 500mg,27,60.26
+2026-11-28,0,Paracetamol 500mg,28,60.26
+2026-11-01,1,Azithromycin 500mg,1,12.68
+2026-11-02,1,Azithromycin 500mg,2,19.82
+2026-11-03,1,Azithromycin 500mg,3,19.35
+2026-11-04,1,Azithromycin 500mg,4,17.59
+2026-11-05,1,Azithromycin 500mg,5,17.18
+2026-11-06,1,Azithromycin 500mg,6,17.71
+2026-11-07,1,Azithromycin 500mg,7,16.84
+2026-11-08,1,Azithromycin 500mg,8,13.48
+2026-11-09,1,Azithromycin 500mg,9,19.02
+2026-11-10,1,Azithromycin 500mg,10,17.51
+2026-11-11,1,Azithromycin 500mg,11,16.36
+2026-11-12,1,Azithromycin 500mg,12,16.27
+2026-11-13,1,Azithromycin 500mg,13,16.86
+2026-11-14,1,Azithromycin 500mg,14,15.5
+2026-11-15,1,Azithromycin 500mg,15,13.0
+2026-11-16,1,Azithromycin 500mg,16,20.61
+2026-11-17,1,Azithromycin 500mg,17,20.2
+2026-11-18,1,Azithromycin 500mg,18,19.0
+2026-11-19,1,Azithromycin 500mg,19,19.22
+2026-11-20,1,Azithromycin 500mg,20,19.7
+2026-11-21,1,Azithromycin 500mg,21,18.93
+2026-11-22,1,Azithromycin 500mg,22,14.79
+2026-11-23,1,Azithromycin 500mg,23,20.59
+2026-11-24,1,Azithromycin 500mg,24,20.51
+2026-11-25,1,Azithromycin 500mg,25,18.21
+2026-11-26,1,Azithromycin 500mg,26,18.79
+2026-11-27,1,Azithromycin 500mg,27,19.19
+2026-11-28,1,Azithromycin 500mg,28,19.2
+2026-11-01,2,Amoxicillin 500mg,1,14.6
+2026-11-02,2,Amoxicillin 500mg,2,22.45
+2026-11-03,2,Amoxicillin 500mg,3,19.79
+2026-11-04,2,Amoxicillin 500mg,4,18.74
+2026-11-05,2,Amoxicillin 500mg,5,18.16
+2026-11-06,2,Amoxicillin 500mg,6,20.12
+2026-11-07,2,Amoxicillin 500mg,7,17.87
+2026-11-08,2,Amoxicillin 500mg,8,15.57
+2026-11-09,2,Amoxicillin 500mg,9,22.23
+2026-11-10,2,Amoxicillin 500mg,10,21.38
+2026-11-11,2,Amoxicillin 500mg,11,20.67
+2026-11-12,2,Amoxicillin 500mg,12,20.19
+2026-11-13,2,Amoxicillin 500mg,13,21.15
+2026-11-14,2,Amoxicillin 500mg,14,19.9
+2026-11-15,2,Amoxicillin 500mg,15,16.4
+2026-11-16,2,Amoxicillin 500mg,16,23.72
+2026-11-17,2,Amoxicillin 500mg,17,22.02
+2026-11-18,2,Amoxicillin 500mg,18,20.46
+2026-11-19,2,Amoxicillin 500mg,19,20.76
+2026-11-20,2,Amoxicillin 500mg,20,21.38
+2026-11-21,2,Amoxicillin 500mg,21,20.17
+2026-11-22,2,Amoxicillin 500mg,22,16.28
+2026-11-23,2,Amoxicillin 500mg,23,23.41
+2026-11-24,2,Amoxicillin 500mg,24,22.15
+2026-11-25,2,Amoxicillin 500mg,25,21.7
+2026-11-26,2,Amoxicillin 500mg,26,21.08
+2026-11-27,2,Amoxicillin 500mg,27,22.41
+2026-11-28,2,Amoxicillin 500mg,28,20.89
+2026-11-01,3,Cetirizine 10mg,1,34.39
+2026-11-02,3,Cetirizine 10mg,2,44.2
+2026-11-03,3,Cetirizine 10mg,3,38.85
+2026-11-04,3,Cetirizine 10mg,4,35.35
+2026-11-05,3,Cetirizine 10mg,5,38.81
+2026-11-06,3,Cetirizine 10mg,6,38.18
+2026-11-07,3,Cetirizine 10mg,7,32.56
+2026-11-08,3,Cetirizine 10mg,8,27.97
+2026-11-09,3,Cetirizine 10mg,9,36.37
+2026-11-10,3,Cetirizine 10mg,10,34.22
+2026-11-11,3,Cetirizine 10mg,11,32.77
+2026-11-12,3,Cetirizine 10mg,12,34.17
+2026-11-13,3,Cetirizine 10mg,13,35.23
+2026-11-14,3,Cetirizine 10mg,14,32.24
+2026-11-15,3,Cetirizine 10mg,15,27.22
+2026-11-16,3,Cetirizine 10mg,16,36.88
+2026-11-17,3,Cetirizine 10mg,17,33.59
+2026-11-18,3,Cetirizine 10mg,18,32.18
+2026-11-19,3,Cetirizine 10mg,19,34.15
+2026-11-20,3,Cetirizine 10mg,20,34.82
+2026-11-21,3,Cetirizine 10mg,21,31.94
+2026-11-22,3,Cetirizine 10mg,22,28.31
+2026-11-23,3,Cetirizine 10mg,23,38.41
+2026-11-24,3,Cetirizine 10mg,24,33.84
+2026-11-25,3,Cetirizine 10mg,25,33.33
+2026-11-26,3,Cetirizine 10mg,26,34.37
+2026-11-27,3,Cetirizine 10mg,27,33.77
+2026-11-28,3,Cetirizine 10mg,28,31.89
+2026-11-01,4,Pantoprazole 40mg,1,29.16
+2026-11-02,4,Pantoprazole 40mg,2,38.83
+2026-11-03,4,Pantoprazole 40mg,3,36.05
+2026-11-04,4,Pantoprazole 40mg,4,35.11
+2026-11-05,4,Pantoprazole 40mg,5,35.74
+2026-11-06,4,Pantoprazole 40mg,6,34.35
+2026-11-07,4,Pantoprazole 40mg,7,33.72
+2026-11-08,4,Pantoprazole 40mg,8,29.18
+2026-11-09,4,Pantoprazole 40mg,9,38.75
+2026-11-10,4,Pantoprazole 40mg,10,36.54
+2026-11-11,4,Pantoprazole 40mg,11,35.94
+2026-11-12,4,Pantoprazole 40mg,12,34.9
+2026-11-13,4,Pantoprazole 40mg,13,33.66
+2026-11-14,4,Pantoprazole 40mg,14,33.62
+2026-11-15,4,Pantoprazole 40mg,15,29.47
+2026-11-16,4,Pantoprazole 40mg,16,37.38
+2026-11-17,4,Pantoprazole 40mg,17,35.99
+2026-11-18,4,Pantoprazole 40mg,18,35.32
+2026-11-19,4,Pantoprazole 40mg,19,34.68
+2026-11-20,4,Pantoprazole 40mg,20,33.65
+2026-11-21,4,Pantoprazole 40mg,21,33.16
+2026-11-22,4,Pantoprazole 40mg,22,30.08
+2026-11-23,4,Pantoprazole 40mg,23,39.84
+2026-11-24,4,Pantoprazole 40mg,24,36.44
+2026-11-25,4,Pantoprazole 40mg,25,35.98
+2026-11-26,4,Pantoprazole 40mg,26,34.73
+2026-11-27,4,Pantoprazole 40mg,27,33.74
+2026-11-28,4,Pantoprazole 40mg,28,35.39
+2026-11-01,5,Metformin 500mg,1,26.99
+2026-11-02,5,Metformin 500mg,2,40.81
+2026-11-03,5,Metformin 500mg,3,37.25
+2026-11-04,5,Metformin 500mg,4,34.63
+2026-11-05,5,Metformin 500mg,5,35.88
+2026-11-06,5,Metformin 500mg,6,34.68
+2026-11-07,5,Metformin 500mg,7,33.81
+2026-11-08,5,Metformin 500mg,8,26.83
+2026-11-09,5,Metformin 500mg,9,39.21
+2026-11-10,5,Metformin 500mg,10,36.99
+2026-11-11,5,Metformin 500mg,11,33.96
+2026-11-12,5,Metformin 500mg,12,38.0
+2026-11-13,5,Metformin 500mg,13,39.42
+2026-11-14,5,Metformin 500mg,14,33.61
+2026-11-15,5,Metformin 500mg,15,26.74
+2026-11-16,5,Metformin 500mg,16,40.08
+2026-11-17,5,Metformin 500mg,17,36.01
+2026-11-18,5,Metformin 500mg,18,34.22
+2026-11-19,5,Metformin 500mg,19,35.88
+2026-11-20,5,Metformin 500mg,20,34.19
+2026-11-21,5,Metformin 500mg,21,33.42
+2026-11-22,5,Metformin 500mg,22,26.79
+2026-11-23,5,Metformin 500mg,23,39.99
+2026-11-24,5,Metformin 500mg,24,36.39
+2026-11-25,5,Metformin 500mg,25,34.57
+2026-11-26,5,Metformin 500mg,26,34.95
+2026-11-27,5,Metformin 500mg,27,34.0
+2026-11-28,5,Metformin 500mg,28,33.2
+2026-11-01,6,Amlodipine 5mg,1,24.65
+2026-11-02,6,Amlodipine 5mg,2,34.37
+2026-11-03,6,Amlodipine 5mg,3,33.12
+2026-11-04,6,Amlodipine 5mg,4,31.53
+2026-11-05,6,Amlodipine 5mg,5,31.98
+2026-11-06,6,Amlodipine 5mg,6,30.62
+2026-11-07,6,Amlodipine 5mg,7,30.38
+2026-11-08,6,Amlodipine 5mg,8,24.05
+2026-11-09,6,Amlodipine 5mg,9,34.49
+2026-11-10,6,Amlodipine 5mg,10,33.44
+2026-11-11,6,Amlodipine 5mg,11,31.27
+2026-11-12,6,Amlodipine 5mg,12,33.16
+2026-11-13,6,Amlodipine 5mg,13,30.83
+2026-11-14,6,Amlodipine 5mg,14,31.45
+2026-11-15,6,Amlodipine 5mg,15,24.81
+2026-11-16,6,Amlodipine 5mg,16,35.15
+2026-11-17,6,Amlodipine 5mg,17,33.12
+2026-11-18,6,Amlodipine 5mg,18,31.17
+2026-11-19,6,Amlodipine 5mg,19,30.17
+2026-11-20,6,Amlodipine 5mg,20,28.99
+2026-11-21,6,Amlodipine 5mg,21,30.05
+2026-11-22,6,Amlodipine 5mg,22,23.1
+2026-11-23,6,Amlodipine 5mg,23,33.33
+2026-11-24,6,Amlodipine 5mg,24,32.41
+2026-11-25,6,Amlodipine 5mg,25,31.09
+2026-11-26,6,Amlodipine 5mg,26,32.17
+2026-11-27,6,Amlodipine 5mg,27,31.09
+2026-11-28,6,Amlodipine 5mg,28,31.7
+2026-11-01,7,Atorvastatin 10mg,1,17.83
+2026-11-02,7,Atorvastatin 10mg,2,26.77
+2026-11-03,7,Atorvastatin 10mg,3,25.13
+2026-11-04,7,Atorvastatin 10mg,4,23.37
+2026-11-05,7,Atorvastatin 10mg,5,22.74
+2026-11-06,7,Atorvastatin 10mg,6,22.78
+2026-11-07,7,Atorvastatin 10mg,7,21.57
+2026-11-08,7,Atorvastatin 10mg,8,17.81
+2026-11-09,7,Atorvastatin 10mg,9,25.87
+2026-11-10,7,Atorvastatin 10mg,10,24.72
+2026-11-11,7,Atorvastatin 10mg,11,22.97
+2026-11-12,7,Atorvastatin 10mg,12,23.53
+2026-11-13,7,Atorvastatin 10mg,13,22.78
+2026-11-14,7,Atorvastatin 10mg,14,21.1
+2026-11-15,7,Atorvastatin 10mg,15,18.03
+2026-11-16,7,Atorvastatin 10mg,16,26.11
+2026-11-17,7,Atorvastatin 10mg,17,24.86
+2026-11-18,7,Atorvastatin 10mg,18,23.43
+2026-11-19,7,Atorvastatin 10mg,19,23.5
+2026-11-20,7,Atorvastatin 10mg,20,21.74
+2026-11-21,7,Atorvastatin 10mg,21,21.39
+2026-11-22,7,Atorvastatin 10mg,22,17.94
+2026-11-23,7,Atorvastatin 10mg,23,26.18
+2026-11-24,7,Atorvastatin 10mg,24,25.53
+2026-11-25,7,Atorvastatin 10mg,25,23.17
+2026-11-26,7,Atorvastatin 10mg,26,23.35
+2026-11-27,7,Atorvastatin 10mg,27,22.03
+2026-11-28,7,Atorvastatin 10mg,28,21.17
+2026-11-01,8,ORS sachet,1,9.97
+2026-11-02,8,ORS sachet,2,15.17
+2026-11-03,8,ORS sachet,3,13.46
+2026-11-04,8,ORS sachet,4,13.08
+2026-11-05,8,ORS sachet,5,13.3
+2026-11-06,8,ORS sachet,6,13.48
+2026-11-07,8,ORS sachet,7,12.38
+2026-11-08,8,ORS sachet,8,10.48
+2026-11-09,8,ORS sachet,9,15.86
+2026-11-10,8,ORS sachet,10,13.57
+2026-11-11,8,ORS sachet,11,12.47
+2026-11-12,8,ORS sachet,12,12.46
+2026-11-13,8,ORS sachet,13,12.58
+2026-11-14,8,ORS sachet,14,12.18
+2026-11-15,8,ORS sachet,15,9.95
+2026-11-16,8,ORS sachet,16,15.03
+2026-11-17,8,ORS sachet,17,13.41
+2026-11-18,8,ORS sachet,18,12.53
+2026-11-19,8,ORS sachet,19,12.53
+2026-11-20,8,ORS sachet,20,13.62
+2026-11-21,8,ORS sachet,21,13.19
+2026-11-22,8,ORS sachet,22,10.34
+2026-11-23,8,ORS sachet,23,15.1
+2026-11-24,8,ORS sachet,24,14.6
+2026-11-25,8,ORS sachet,25,13.8
+2026-11-26,8,ORS sachet,26,13.72
+2026-11-27,8,ORS sachet,27,13.41
+2026-11-28,8,ORS sachet,28,12.25
+2026-11-01,9,Cough syrup 100ml,1,9.46
+2026-11-02,9,Cough syrup 100ml,2,13.54
+2026-11-03,9,Cough syrup 100ml,3,12.56
+2026-11-04,9,Cough syrup 100ml,4,12.22
+2026-11-05,9,Cough syrup 100ml,5,12.35
+2026-11-06,9,Cough syrup 100ml,6,12.64
+2026-11-07,9,Cough syrup 100ml,7,12.3
+2026-11-08,9,Cough syrup 100ml,8,9.79
+2026-11-09,9,Cough syrup 100ml,9,14.0
+2026-11-10,9,Cough syrup 100ml,10,12.64
+2026-11-11,9,Cough syrup 100ml,11,11.94
+2026-11-12,9,Cough syrup 100ml,12,12.42
+2026-11-13,9,Cough syrup 100ml,13,12.42
+2026-11-14,9,Cough syrup 100ml,14,12.33
+2026-11-15,9,Cough syrup 100ml,15,9.53
+2026-11-16,9,Cough syrup 100ml,16,13.76
+2026-11-17,9,Cough syrup 100ml,17,12.8
+2026-11-18,9,Cough syrup 100ml,18,12.36
+2026-11-19,9,Cough syrup 100ml,19,12.65
+2026-11-20,9,Cough syrup 100ml,20,13.67
+2026-11-21,9,Cough syrup 100ml,21,13.06
+2026-11-22,9,Cough syrup 100ml,22,11.07
+2026-11-23,9,Cough syrup 100ml,23,16.38
+2026-11-24,9,Cough syrup 100ml,24,15.63
+2026-11-25,9,Cough syrup 100ml,25,14.56
+2026-11-26,9,Cough syrup 100ml,26,14.9
+2026-11-27,9,Cough syrup 100ml,27,14.4
+2026-11-28,9,Cough syrup 100ml,28,13.97
+2026-11-01,10,Vitamin D3 60k,1,7.77
+2026-11-02,10,Vitamin D3 60k,2,10.8
+2026-11-03,10,Vitamin D3 60k,3,10.86
+2026-11-04,10,Vitamin D3 60k,4,10.14
+2026-11-05,10,Vitamin D3 60k,5,9.93
+2026-11-06,10,Vitamin D3 60k,6,10.39
+2026-11-07,10,Vitamin D3 60k,7,9.23
+2026-11-08,10,Vitamin D3 60k,8,7.66
+2026-11-09,10,Vitamin D3 60k,9,11.31
+2026-11-10,10,Vitamin D3 60k,10,10.84
+2026-11-11,10,Vitamin D3 60k,11,9.97
+2026-11-12,10,Vitamin D3 60k,12,9.84
+2026-11-13,10,Vitamin D3 60k,13,10.03
+2026-11-14,10,Vitamin D3 60k,14,9.15
+2026-11-15,10,Vitamin D3 60k,15,7.3
+2026-11-16,10,Vitamin D3 60k,16,11.15
+2026-11-17,10,Vitamin D3 60k,17,10.64
+2026-11-18,10,Vitamin D3 60k,18,10.14
+2026-11-19,10,Vitamin D3 60k,19,10.03
+2026-11-20,10,Vitamin D3 60k,20,9.66
+2026-11-21,10,Vitamin D3 60k,21,8.93
+2026-11-22,10,Vitamin D3 60k,22,7.26
+2026-11-23,10,Vitamin D3 60k,23,10.84
+2026-11-24,10,Vitamin D3 60k,24,10.77
+2026-11-25,10,Vitamin D3 60k,25,9.95
+2026-11-26,10,Vitamin D3 60k,26,10.09
+2026-11-27,10,Vitamin D3 60k,27,10.22
+2026-11-28,10,Vitamin D3 60k,28,9.86
+2026-11-01,11,Multivitamin,1,12.8
+2026-11-02,11,Multivitamin,2,17.58
+2026-11-03,11,Multivitamin,3,16.6
+2026-11-04,11,Multivitamin,4,15.63
+2026-11-05,11,Multivitamin,5,15.38
+2026-11-06,11,Multivitamin,6,15.76
+2026-11-07,11,Multivitamin,7,14.08
+2026-11-08,11,Multivitamin,8,12.9
+2026-11-09,11,Multivitamin,9,17.41
+2026-11-10,11,Multivitamin,10,17.35
+2026-11-11,11,Multivitamin,11,15.52
+2026-11-12,11,Multivitamin,12,15.3
+2026-11-13,11,Multivitamin,13,15.78
+2026-11-14,11,Multivitamin,14,14.35
+2026-11-15,11,Multivitamin,15,12.22
+2026-11-16,11,Multivitamin,16,16.46
+2026-11-17,11,Multivitamin,17,16.02
+2026-11-18,11,Multivitamin,18,14.96
+2026-11-19,11,Multivitamin,19,14.14
+2026-11-20,11,Multivitamin,20,15.25
+2026-11-21,11,Multivitamin,21,13.45
+2026-11-22,11,Multivitamin,22,12.36
+2026-11-23,11,Multivitamin,23,17.29
+2026-11-24,11,Multivitamin,24,16.12
+2026-11-25,11,Multivitamin,25,15.69
+2026-11-26,11,Multivitamin,26,15.18
+2026-11-27,11,Multivitamin,27,15.66
+2026-11-28,11,Multivitamin,28,14.79
+2026-11-01,12,Ibuprofen 400mg,1,16.37
+2026-11-02,12,Ibuprofen 400mg,2,23.13
+2026-11-03,12,Ibuprofen 400mg,3,22.11
+2026-11-04,12,Ibuprofen 400mg,4,20.99
+2026-11-05,12,Ibuprofen 400mg,5,20.85
+2026-11-06,12,Ibuprofen 400mg,6,21.11
+2026-11-07,12,Ibuprofen 400mg,7,18.46
+2026-11-08,12,Ibuprofen 400mg,8,16.34
+2026-11-09,12,Ibuprofen 400mg,9,23.09
+2026-11-10,12,Ibuprofen 400mg,10,21.48
+2026-11-11,12,Ibuprofen 400mg,11,20.17
+2026-11-12,12,Ibuprofen 400mg,12,19.52
+2026-11-13,12,Ibuprofen 400mg,13,20.0
+2026-11-14,12,Ibuprofen 400mg,14,18.61
+2026-11-15,12,Ibuprofen 400mg,15,14.81
+2026-11-16,12,Ibuprofen 400mg,16,22.8
+2026-11-17,12,Ibuprofen 400mg,17,21.45
+2026-11-18,12,Ibuprofen 400mg,18,21.11
+2026-11-19,12,Ibuprofen 400mg,19,21.04
+2026-11-20,12,Ibuprofen 400mg,20,21.73
+2026-11-21,12,Ibuprofen 400mg,21,20.07
+2026-11-22,12,Ibuprofen 400mg,22,16.85
+2026-11-23,12,Ibuprofen 400mg,23,23.88
+2026-11-24,12,Ibuprofen 400mg,24,22.45
+2026-11-25,12,Ibuprofen 400mg,25,21.85
+2026-11-26,12,Ibuprofen 400mg,26,21.05
+2026-11-27,12,Ibuprofen 400mg,27,21.94
+2026-11-28,12,Ibuprofen 400mg,28,20.83
+2026-11-01,13,Omeprazole 20mg,1,20.13
+2026-11-02,13,Omeprazole 20mg,2,29.21
+2026-11-03,13,Omeprazole 20mg,3,27.8
+2026-11-04,13,Omeprazole 20mg,4,25.68
+2026-11-05,13,Omeprazole 20mg,5,25.67
+2026-11-06,13,Omeprazole 20mg,6,26.52
+2026-11-07,13,Omeprazole 20mg,7,25.53
+2026-11-08,13,Omeprazole 20mg,8,19.03
+2026-11-09,13,Omeprazole 20mg,9,28.81
+2026-11-10,13,Omeprazole 20mg,10,27.04
+2026-11-11,13,Omeprazole 20mg,11,25.65
+2026-11-12,13,Omeprazole 20mg,12,26.6
+2026-11-13,13,Omeprazole 20mg,13,26.44
+2026-11-14,13,Omeprazole 20mg,14,26.22
+2026-11-15,13,Omeprazole 20mg,15,19.8
+2026-11-16,13,Omeprazole 20mg,16,29.21
+2026-11-17,13,Omeprazole 20mg,17,27.2
+2026-11-18,13,Omeprazole 20mg,18,25.36
+2026-11-19,13,Omeprazole 20mg,19,26.19
+2026-11-20,13,Omeprazole 20mg,20,26.22
+2026-11-21,13,Omeprazole 20mg,21,26.4
+2026-11-22,13,Omeprazole 20mg,22,18.64
+2026-11-23,13,Omeprazole 20mg,23,28.68
+2026-11-24,13,Omeprazole 20mg,24,26.37
+2026-11-25,13,Omeprazole 20mg,25,24.93
+2026-11-26,13,Omeprazole 20mg,26,26.0
+2026-11-27,13,Omeprazole 20mg,27,26.85
+2026-11-28,13,Omeprazole 20mg,28,27.39
+2026-11-01,14,Insulin glargine pen,1,1.46
+2026-11-02,14,Insulin glargine pen,2,2.13
+2026-11-03,14,Insulin glargine pen,3,2.07
+2026-11-04,14,Insulin glargine pen,4,1.9
+2026-11-05,14,Insulin glargine pen,5,1.96
+2026-11-06,14,Insulin glargine pen,6,1.97
+2026-11-07,14,Insulin glargine pen,7,1.79
+2026-11-08,14,Insulin glargine pen,8,1.49
+2026-11-09,14,Insulin glargine pen,9,2.02
+2026-11-10,14,Insulin glargine pen,10,2.05
+2026-11-11,14,Insulin glargine pen,11,1.94
+2026-11-12,14,Insulin glargine pen,12,1.91
+2026-11-13,14,Insulin glargine pen,13,2.02
+2026-11-14,14,Insulin glargine pen,14,1.7
+2026-11-15,14,Insulin glargine pen,15,1.5
+2026-11-16,14,Insulin glargine pen,16,2.18
+2026-11-17,14,Insulin glargine pen,17,2.02
+2026-11-18,14,Insulin glargine pen,18,1.92
+2026-11-19,14,Insulin glargine pen,19,1.94
+2026-11-20,14,Insulin glargine pen,20,2.03
+2026-11-21,14,Insulin glargine pen,21,1.83
+2026-11-22,14,Insulin glargine pen,22,1.55
+2026-11-23,14,Insulin glargine pen,23,2.22
+2026-11-24,14,Insulin glargine pen,24,2.15
+2026-11-25,14,Insulin glargine pen,25,1.96
+2026-11-26,14,Insulin glargine pen,26,1.95
+2026-11-27,14,Insulin glargine pen,27,2.08
+2026-11-28,14,Insulin glargine pen,28,1.81
+2026-11-01,15,Salbutamol inhaler,1,3.04
+2026-11-02,15,Salbutamol inhaler,2,4.57
+2026-11-03,15,Salbutamol inhaler,3,3.89
+2026-11-04,15,Salbutamol inhaler,4,4.49
+2026-11-05,15,Salbutamol inhaler,5,4.62
+2026-11-06,15,Salbutamol inhaler,6,3.67
+2026-11-07,15,Salbutamol inhaler,7,3.05
+2026-11-08,15,Salbutamol inhaler,8,2.68
+2026-11-09,15,Salbutamol inhaler,9,4.42
+2026-11-10,15,Salbutamol inhaler,10,4.72
+2026-11-11,15,Salbutamol inhaler,11,4.42
+2026-11-12,15,Salbutamol inhaler,12,4.52
+2026-11-13,15,Salbutamol inhaler,13,4.29
+2026-11-14,15,Salbutamol inhaler,14,4.0
+2026-11-15,15,Salbutamol inhaler,15,3.36
+2026-11-16,15,Salbutamol inhaler,16,5.3
+2026-11-17,15,Salbutamol inhaler,17,4.62
+2026-11-18,15,Salbutamol inhaler,18,4.34
+2026-11-19,15,Salbutamol inhaler,19,4.46
+2026-11-20,15,Salbutamol inhaler,20,3.98
+2026-11-21,15,Salbutamol inhaler,21,3.16
+2026-11-22,15,Salbutamol inhaler,22,2.67
+2026-11-23,15,Salbutamol inhaler,23,3.57
+2026-11-24,15,Salbutamol inhaler,24,3.72
+2026-11-25,15,Salbutamol inhaler,25,4.28
+2026-11-26,15,Salbutamol inhaler,26,4.41
+2026-11-27,15,Salbutamol inhaler,27,3.65
+2026-11-28,15,Salbutamol inhaler,28,3.13
+2026-11-01,16,Antacid gel 170ml,1,6.52
+2026-11-02,16,Antacid gel 170ml,2,11.12
+2026-11-03,16,Antacid gel 170ml,3,10.39
+2026-11-04,16,Antacid gel 170ml,4,10.14
+2026-11-05,16,Antacid gel 170ml,5,9.96
+2026-11-06,16,Antacid gel 170ml,6,10.01
+2026-11-07,16,Antacid gel 170ml,7,9.39
+2026-11-08,16,Antacid gel 170ml,8,6.8
+2026-11-09,16,Antacid gel 170ml,9,10.19
+2026-11-10,16,Antacid gel 170ml,10,9.36
+2026-11-11,16,Antacid gel 170ml,11,9.23
+2026-11-12,16,Antacid gel 170ml,12,9.94
+2026-11-13,16,Antacid gel 170ml,13,9.33
+2026-11-14,16,Antacid gel 170ml,14,8.97
+2026-11-15,16,Antacid gel 170ml,15,6.81
+2026-11-16,16,Antacid gel 170ml,16,11.21
+2026-11-17,16,Antacid gel 170ml,17,10.41
+2026-11-18,16,Antacid gel 170ml,18,10.01
+2026-11-19,16,Antacid gel 170ml,19,9.85
+2026-11-20,16,Antacid gel 170ml,20,10.14
+2026-11-21,16,Antacid gel 170ml,21,9.56
+2026-11-22,16,Antacid gel 170ml,22,6.56
+2026-11-23,16,Antacid gel 170ml,23,10.77
+2026-11-24,16,Antacid gel 170ml,24,10.0
+2026-11-25,16,Antacid gel 170ml,25,9.85
+2026-11-26,16,Antacid gel 170ml,26,10.01
+2026-11-27,16,Antacid gel 170ml,27,10.14
+2026-11-28,16,Antacid gel 170ml,28,10.08
+2026-11-01,17,Lubricant eye drops,1,4.63
+2026-11-02,17,Lubricant eye drops,2,7.41
+2026-11-03,17,Lubricant eye drops,3,6.85
+2026-11-04,17,Lubricant eye drops,4,6.74
+2026-11-05,17,Lubricant eye drops,5,7.43
+2026-11-06,17,Lubricant eye drops,6,7.11
+2026-11-07,17,Lubricant eye drops,7,6.51
+2026-11-08,17,Lubricant eye drops,8,5.1
+2026-11-09,17,Lubricant eye drops,9,7.62
+2026-11-10,17,Lubricant eye drops,10,6.77
+2026-11-11,17,Lubricant eye drops,11,6.8
+2026-11-12,17,Lubricant eye drops,12,7.26
+2026-11-13,17,Lubricant eye drops,13,6.92
+2026-11-14,17,Lubricant eye drops,14,7.02
+2026-11-15,17,Lubricant eye drops,15,4.92
+2026-11-16,17,Lubricant eye drops,16,7.8
+2026-11-17,17,Lubricant eye drops,17,7.35
+2026-11-18,17,Lubricant eye drops,18,7.13
+2026-11-19,17,Lubricant eye drops,19,7.29
+2026-11-20,17,Lubricant eye drops,20,7.25
+2026-11-21,17,Lubricant eye drops,21,6.59
+2026-11-22,17,Lubricant eye drops,22,4.74
+2026-11-23,17,Lubricant eye drops,23,7.67
+2026-11-24,17,Lubricant eye drops,24,7.23
+2026-11-25,17,Lubricant eye drops,25,6.3
+2026-11-26,17,Lubricant eye drops,26,7.09
+2026-11-27,17,Lubricant eye drops,27,6.95
+2026-11-28,17,Lubricant eye drops,28,6.5
+2026-11-01,18,Diclofenac gel,1,7.41
+2026-11-02,18,Diclofenac gel,2,9.91
+2026-11-03,18,Diclofenac gel,3,9.35
+2026-11-04,18,Diclofenac gel,4,9.14
+2026-11-05,18,Diclofenac gel,5,9.22
+2026-11-06,18,Diclofenac gel,6,8.92
+2026-11-07,18,Diclofenac gel,7,8.37
+2026-11-08,18,Diclofenac gel,8,7.26
+2026-11-09,18,Diclofenac gel,9,9.87
+2026-11-10,18,Diclofenac gel,10,9.39
+2026-11-11,18,Diclofenac gel,11,9.12
+2026-11-12,18,Diclofenac gel,12,9.16
+2026-11-13,18,Diclofenac gel,13,9.12
+2026-11-14,18,Diclofenac gel,14,8.5
+2026-11-15,18,Diclofenac gel,15,7.26
+2026-11-16,18,Diclofenac gel,16,9.99
+2026-11-17,18,Diclofenac gel,17,9.33
+2026-11-18,18,Diclofenac gel,18,8.99
+2026-11-19,18,Diclofenac gel,19,9.23
+2026-11-20,18,Diclofenac gel,20,9.04
+2026-11-21,18,Diclofenac gel,21,8.49
+2026-11-22,18,Diclofenac gel,22,7.06
+2026-11-23,18,Diclofenac gel,23,9.76
+2026-11-24,18,Diclofenac gel,24,9.22
+2026-11-25,18,Diclofenac gel,25,9.26
+2026-11-26,18,Diclofenac gel,26,9.3
+2026-11-27,18,Diclofenac gel,27,9.1
+2026-11-28,18,Diclofenac gel,28,8.28
+2026-11-01,19,Levothyroxine 50mcg,1,16.38
+2026-11-02,19,Levothyroxine 50mcg,2,23.43
+2026-11-03,19,Levothyroxine 50mcg,3,21.9
+2026-11-04,19,Levothyroxine 50mcg,4,19.72
+2026-11-05,19,Levothyroxine 50mcg,5,19.91
+2026-11-06,19,Levothyroxine 50mcg,6,20.11
+2026-11-07,19,Levothyroxine 50mcg,7,19.64
+2026-11-08,19,Levothyroxine 50mcg,8,16.47
+2026-11-09,19,Levothyroxine 50mcg,9,22.91
+2026-11-10,19,Levothyroxine 50mcg,10,21.9
+2026-11-11,19,Levothyroxine 50mcg,11,20.05
+2026-11-12,19,Levothyroxine 50mcg,12,19.83
+2026-11-13,19,Levothyroxine 50mcg,13,20.37
+2026-11-14,19,Levothyroxine 50mcg,14,19.68
+2026-11-15,19,Levothyroxine 50mcg,15,16.08
+2026-11-16,19,Levothyroxine 50mcg,16,23.07
+2026-11-17,19,Levothyroxine 50mcg,17,21.78
+2026-11-18,19,Levothyroxine 50mcg,18,19.94
+2026-11-19,19,Levothyroxine 50mcg,19,19.43
+2026-11-20,19,Levothyroxine 50mcg,20,19.15
+2026-11-21,19,Levothyroxine 50mcg,21,18.6
+2026-11-22,19,Levothyroxine 50mcg,22,16.03
+2026-11-23,19,Levothyroxine 50mcg,23,23.63
+2026-11-24,19,Levothyroxine 50mcg,24,21.7
+2026-11-25,19,Levothyroxine 50mcg,25,19.91
+2026-11-26,19,Levothyroxine 50mcg,26,19.91
+2026-11-27,19,Levothyroxine 50mcg,27,20.54
+2026-11-28,19,Levothyroxine 50mcg,28,19.07
+2026-11-01,20,Loperamide 2mg,1,3.89
+2026-11-02,20,Loperamide 2mg,2,5.78
+2026-11-03,20,Loperamide 2mg,3,5.46
+2026-11-04,20,Loperamide 2mg,4,5.37
+2026-11-05,20,Loperamide 2mg,5,5.37
+2026-11-06,20,Loperamide 2mg,6,5.25
+2026-11-07,20,Loperamide 2mg,7,5.1
+2026-11-08,20,Loperamide 2mg,8,4.09
+2026-11-09,20,Loperamide 2mg,9,5.79
+2026-11-10,20,Loperamide 2mg,10,5.57
+2026-11-11,20,Loperamide 2mg,11,5.41
+2026-11-12,20,Loperamide 2mg,12,5.45
+2026-11-13,20,Loperamide 2mg,13,5.2
+2026-11-14,20,Loperamide 2mg,14,5.09
+2026-11-15,20,Loperamide 2mg,15,4.07
+2026-11-16,20,Loperamide 2mg,16,5.6
+2026-11-17,20,Loperamide 2mg,17,5.25
+2026-11-18,20,Loperamide 2mg,18,5.35
+2026-11-19,20,Loperamide 2mg,19,5.58
+2026-11-20,20,Loperamide 2mg,20,5.34
+2026-11-21,20,Loperamide 2mg,21,5.15
+2026-11-22,20,Loperamide 2mg,22,4.02
+2026-11-23,20,Loperamide 2mg,23,5.58
+2026-11-24,20,Loperamide 2mg,24,5.24
+2026-11-25,20,Loperamide 2mg,25,5.2
+2026-11-26,20,Loperamide 2mg,26,5.29
+2026-11-27,20,Loperamide 2mg,27,5.11
+2026-11-28,20,Loperamide 2mg,28,5.12
+2026-11-01,21,Montelukast 10mg,1,17.74
+2026-11-02,21,Montelukast 10mg,2,24.62
+2026-11-03,21,Montelukast 10mg,3,24.85
+2026-11-04,21,Montelukast 10mg,4,21.65
+2026-11-05,21,Montelukast 10mg,5,23.19
+2026-11-06,21,Montelukast 10mg,6,22.27
+2026-11-07,21,Montelukast 10mg,7,18.8
+2026-11-08,21,Montelukast 10mg,8,15.34
+2026-11-09,21,Montelukast 10mg,9,20.49
+2026-11-10,21,Montelukast 10mg,10,20.14
+2026-11-11,21,Montelukast 10mg,11,18.26
+2026-11-12,21,Montelukast 10mg,12,19.53
+2026-11-13,21,Montelukast 10mg,13,19.19
+2026-11-14,21,Montelukast 10mg,14,16.15
+2026-11-15,21,Montelukast 10mg,15,12.73
+2026-11-16,21,Montelukast 10mg,16,19.34
+2026-11-17,21,Montelukast 10mg,17,17.15
+2026-11-18,21,Montelukast 10mg,18,15.52
+2026-11-19,21,Montelukast 10mg,19,15.98
+2026-11-20,21,Montelukast 10mg,20,17.6
+2026-11-21,21,Montelukast 10mg,21,15.85
+2026-11-22,21,Montelukast 10mg,22,11.91
+2026-11-23,21,Montelukast 10mg,23,18.64
+2026-11-24,21,Montelukast 10mg,24,16.72
+2026-11-25,21,Montelukast 10mg,25,14.68
+2026-11-26,21,Montelukast 10mg,26,16.69
+2026-11-27,21,Montelukast 10mg,27,17.5
+2026-11-28,21,Montelukast 10mg,28,16.06
+2026-11-01,22,Povidone iodine 100ml,1,5.26
+2026-11-02,22,Povidone iodine 100ml,2,8.38
+2026-11-03,22,Povidone iodine 100ml,3,7.57
+2026-11-04,22,Povidone iodine 100ml,4,7.47
+2026-11-05,22,Povidone iodine 100ml,5,7.35
+2026-11-06,22,Povidone iodine 100ml,6,7.27
+2026-11-07,22,Povidone iodine 100ml,7,6.93
+2026-11-08,22,Povidone iodine 100ml,8,5.34
+2026-11-09,22,Povidone iodine 100ml,9,8.28
+2026-11-10,22,Povidone iodine 100ml,10,7.88
+2026-11-11,22,Povidone iodine 100ml,11,7.52
+2026-11-12,22,Povidone iodine 100ml,12,7.6
+2026-11-13,22,Povidone iodine 100ml,13,7.63
+2026-11-14,22,Povidone iodine 100ml,14,7.0
+2026-11-15,22,Povidone iodine 100ml,15,5.46
+2026-11-16,22,Povidone iodine 100ml,16,8.26
+2026-11-17,22,Povidone iodine 100ml,17,7.27
+2026-11-18,22,Povidone iodine 100ml,18,7.23
+2026-11-19,22,Povidone iodine 100ml,19,7.23
+2026-11-20,22,Povidone iodine 100ml,20,7.36
+2026-11-21,22,Povidone iodine 100ml,21,7.07
+2026-11-22,22,Povidone iodine 100ml,22,5.04
+2026-11-23,22,Povidone iodine 100ml,23,8.46
+2026-11-24,22,Povidone iodine 100ml,24,7.65
+2026-11-25,22,Povidone iodine 100ml,25,7.2
+2026-11-26,22,Povidone iodine 100ml,26,7.3
+2026-11-27,22,Povidone iodine 100ml,27,7.36
+2026-11-28,22,Povidone iodine 100ml,28,7.06
+2026-11-01,23,Oseltamivir 75mg,1,2.04
+2026-11-02,23,Oseltamivir 75mg,2,3.01
+2026-11-03,23,Oseltamivir 75mg,3,3.17
+2026-11-04,23,Oseltamivir 75mg,4,2.84
+2026-11-05,23,Oseltamivir 75mg,5,3.69
+2026-11-06,23,Oseltamivir 75mg,6,3.34
+2026-11-07,23,Oseltamivir 75mg,7,3.28
+2026-11-08,23,Oseltamivir 75mg,8,2.24
+2026-11-09,23,Oseltamivir 75mg,9,3.1
+2026-11-10,23,Oseltamivir 75mg,10,3.06
+2026-11-11,23,Oseltamivir 75mg,11,3.03
+2026-11-12,23,Oseltamivir 75mg,12,2.79
+2026-11-13,23,Oseltamivir 75mg,13,2.93
+2026-11-14,23,Oseltamivir 75mg,14,2.75
+2026-11-15,23,Oseltamivir 75mg,15,2.21
+2026-11-16,23,Oseltamivir 75mg,16,3.86
+2026-11-17,23,Oseltamivir 75mg,17,4.42
+2026-11-18,23,Oseltamivir 75mg,18,4.07
+2026-11-19,23,Oseltamivir 75mg,19,4.27
+2026-11-20,23,Oseltamivir 75mg,20,3.94
+2026-11-21,23,Oseltamivir 75mg,21,3.88
+2026-11-22,23,Oseltamivir 75mg,22,3.2
+2026-11-23,23,Oseltamivir 75mg,23,4.34
+2026-11-24,23,Oseltamivir 75mg,24,4.57
+2026-11-25,23,Oseltamivir 75mg,25,3.94
+2026-11-26,23,Oseltamivir 75mg,26,3.8
+2026-11-27,23,Oseltamivir 75mg,27,3.55
+2026-11-28,23,Oseltamivir 75mg,28,3.61
+2026-11-01,24,Amox-clav syrup,1,3.53
+2026-11-02,24,Amox-clav syrup,2,5.68
+2026-11-03,24,Amox-clav syrup,3,5.26
+2026-11-04,24,Amox-clav syrup,4,5.29
+2026-11-05,24,Amox-clav syrup,5,5.46
+2026-11-06,24,Amox-clav syrup,6,5.14
+2026-11-07,24,Amox-clav syrup,7,4.69
+2026-11-08,24,Amox-clav syrup,8,4.02
+2026-11-09,24,Amox-clav syrup,9,5.89
+2026-11-10,24,Amox-clav syrup,10,5.71
+2026-11-11,24,Amox-clav syrup,11,5.44
+2026-11-12,24,Amox-clav syrup,12,5.6
+2026-11-13,24,Amox-clav syrup,13,5.12
+2026-11-14,24,Amox-clav syrup,14,4.74
+2026-11-15,24,Amox-clav syrup,15,3.98
+2026-11-16,24,Amox-clav syrup,16,5.48
+2026-11-17,24,Amox-clav syrup,17,5.37
+2026-11-18,24,Amox-clav syrup,18,5.18
+2026-11-19,24,Amox-clav syrup,19,5.54
+2026-11-20,24,Amox-clav syrup,20,5.1
+2026-11-21,24,Amox-clav syrup,21,4.63
+2026-11-22,24,Amox-clav syrup,22,3.94
+2026-11-23,24,Amox-clav syrup,23,6.12
+2026-11-24,24,Amox-clav syrup,24,5.82
+2026-11-25,24,Amox-clav syrup,25,5.32
+2026-11-26,24,Amox-clav syrup,26,5.66
+2026-11-27,24,Amox-clav syrup,27,5.72
+2026-11-28,24,Amox-clav syrup,28,4.92
+2026-11-01,25,Ondansetron 4mg,1,4.82
+2026-11-02,25,Ondansetron 4mg,2,7.71
+2026-11-03,25,Ondansetron 4mg,3,6.8
+2026-11-04,25,Ondansetron 4mg,4,6.82
+2026-11-05,25,Ondansetron 4mg,5,6.84
+2026-11-06,25,Ondansetron 4mg,6,6.94
+2026-11-07,25,Ondansetron 4mg,7,6.24
+2026-11-08,25,Ondansetron 4mg,8,4.82
+2026-11-09,25,Ondansetron 4mg,9,7.58
+2026-11-10,25,Ondansetron 4mg,10,7.13
+2026-11-11,25,Ondansetron 4mg,11,6.53
+2026-11-12,25,Ondansetron 4mg,12,6.8
+2026-11-13,25,Ondansetron 4mg,13,6.63
+2026-11-14,25,Ondansetron 4mg,14,6.23
+2026-11-15,25,Ondansetron 4mg,15,4.87
+2026-11-16,25,Ondansetron 4mg,16,7.6
+2026-11-17,25,Ondansetron 4mg,17,7.04
+2026-11-18,25,Ondansetron 4mg,18,6.68
+2026-11-19,25,Ondansetron 4mg,19,6.79
+2026-11-20,25,Ondansetron 4mg,20,6.63
+2026-11-21,25,Ondansetron 4mg,21,6.22
+2026-11-22,25,Ondansetron 4mg,22,4.82
+2026-11-23,25,Ondansetron 4mg,23,7.6
+2026-11-24,25,Ondansetron 4mg,24,7.12
+2026-11-25,25,Ondansetron 4mg,25,6.53
+2026-11-26,25,Ondansetron 4mg,26,6.82
+2026-11-27,25,Ondansetron 4mg,27,6.74
+2026-11-28,25,Ondansetron 4mg,28,6.32

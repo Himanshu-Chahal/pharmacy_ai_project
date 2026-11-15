@@ -1,0 +1,27 @@
+medicine_id,medicine,category,unit_price,unit_cost,pack_size,shelf_life_days
+0,Paracetamol 500mg,Analgesic,1.8,1.2,100,1095
+1,Azithromycin 500mg,Antibiotic,18.0,12.0,30,730
+2,Amoxicillin 500mg,Antibiotic,9.0,6.0,30,730
+3,Cetirizine 10mg,Antiallergic,2.5,1.6,100,1095
+4,Pantoprazole 40mg,Gastro,6.0,4.0,60,730
+5,Metformin 500mg,Diabetes,1.5,1.0,100,1095
+6,Amlodipine 5mg,Cardio,2.0,1.2,100,1095
+7,Atorvastatin 10mg,Cardio,5.0,3.2,60,1095
+8,ORS sachet,Rehydration,20.0,14.0,50,540
+9,Cough syrup 100ml,Respiratory,85.0,58.0,24,240
+10,Vitamin D3 60k,Supplement,35.0,22.0,20,365
+11,Multivitamin,Supplement,7.0,4.5,60,730
+12,Ibuprofen 400mg,Analgesic,2.2,1.4,100,1095
+13,Omeprazole 20mg,Gastro,3.0,2.0,100,730
+14,Insulin glargine pen,Diabetes,620.0,480.0,12,120
+15,Salbutamol inhaler,Respiratory,180.0,130.0,10,180
+16,Antacid gel 170ml,Gastro,110.0,75.0,12,300
+17,Lubricant eye drops,Ophthalmic,140.0,90.0,12,200
+18,Diclofenac gel,Analgesic,95.0,60.0,20,365
+19,Levothyroxine 50mcg,Endocrine,2.8,1.8,100,730
+20,Loperamide 2mg,Gastro,2.5,1.5,60,365
+21,Montelukast 10mg,Respiratory,10.0,6.5,30,730
+22,Povidone iodine 100ml,Antiseptic,75.0,50.0,24,365
+23,Oseltamivir 75mg,Antiviral,55.0,38.0,10,270
+24,Amox-clav syrup,Antibiotic,110.0,75.0,12,150
+25,Ondansetron 4mg,Gastro,5.0,3.0,30,730
